@@ -4,9 +4,9 @@ UTN FRGP - Laboratorio de Computación II
 
 Integrantes:
 
-- Afonso de Souza, Noelia, legajo: 27082
-- Alduncin, Joaquín, legajo: 25778
-- Felice, Pablo, legajo: 26283
+- Afonso de Souza, Noelia
+- Alduncin, Joaquín
+- Felice, Pablo
 
 
 ------------
